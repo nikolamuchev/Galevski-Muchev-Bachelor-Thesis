@@ -1943,17 +1943,13 @@
     <bcf:citekey order="18">robotics</bcf:citekey>
     <bcf:citekey order="19">differential_drive_robots</bcf:citekey>
     <bcf:citekey order="20">differential_drive_robots</bcf:citekey>
-    <bcf:citekey order="21">young</bcf:citekey>
-    <bcf:citekey order="22">svaetchin</bcf:citekey>
-    <bcf:citekey order="23">colourcube</bcf:citekey>
-    <bcf:citekey order="24">nColours</bcf:citekey>
-    <bcf:citekey order="25">kim</bcf:citekey>
-    <bcf:citekey order="26">kim</bcf:citekey>
-    <bcf:citekey order="27">kim</bcf:citekey>
-    <bcf:citekey order="28">lvforeveryone</bcf:citekey>
-    <bcf:citekey order="29">lvforeveryone</bcf:citekey>
-    <bcf:citekey order="30">vfh_images</bcf:citekey>
-    <bcf:citekey order="31">vfh_images</bcf:citekey>
+    <bcf:citekey order="21">kim</bcf:citekey>
+    <bcf:citekey order="22">kim</bcf:citekey>
+    <bcf:citekey order="23">kim</bcf:citekey>
+    <bcf:citekey order="24">lvforeveryone</bcf:citekey>
+    <bcf:citekey order="25">lvforeveryone</bcf:citekey>
+    <bcf:citekey order="26">vfh_images</bcf:citekey>
+    <bcf:citekey order="27">vfh_images</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
