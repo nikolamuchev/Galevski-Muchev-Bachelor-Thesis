@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.9
 [0] Config.pm:305> INFO - Logfile is 'project.blg'
-[56] biber:313> INFO - === Sun Feb  3, 2019, 21:32:01
-[98] Biber.pm:371> INFO - Reading 'project.bcf'
-[213] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[246] Biber.pm:3981> INFO - Processing section 0
-[269] Biber.pm:4154> INFO - Looking for bibtex format file 'sample.bib' for section 0
-[279] bibtex.pm:1468> INFO - LaTeX decoding ...
-[332] bibtex.pm:1294> INFO - Found BibTeX data source 'sample.bib'
-[524] UCollate.pm:68> INFO - Overriding locale 'macedonian' defaults 'variable = shifted' with 'variable = non-ignorable'
-[525] UCollate.pm:68> INFO - Overriding locale 'macedonian' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[525] Biber.pm:3809> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'macedonian'
-[525] Biber.pm:3815> INFO - No sort tailoring available for locale 'macedonian'
-[591] bbl.pm:617> INFO - Writing 'project.bbl' with encoding 'UTF-8'
-[629] bbl.pm:720> INFO - Output to project.bbl
+[32] biber:313> INFO - === Mon Feb  4, 2019, 13:44:52
+[74] Biber.pm:371> INFO - Reading 'project.bcf'
+[163] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[183] Biber.pm:3981> INFO - Processing section 0
+[194] Biber.pm:4154> INFO - Looking for bibtex format file 'sample.bib' for section 0
+[203] bibtex.pm:1468> INFO - LaTeX decoding ...
+[228] bibtex.pm:1294> INFO - Found BibTeX data source 'sample.bib'
+[551] UCollate.pm:68> INFO - Overriding locale 'macedonian' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[552] UCollate.pm:68> INFO - Overriding locale 'macedonian' defaults 'variable = shifted' with 'variable = non-ignorable'
+[552] Biber.pm:3809> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'macedonian'
+[552] Biber.pm:3815> INFO - No sort tailoring available for locale 'macedonian'
+[600] bbl.pm:617> INFO - Writing 'project.bbl' with encoding 'UTF-8'
+[617] bbl.pm:720> INFO - Output to project.bbl
